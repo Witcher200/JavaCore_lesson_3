@@ -3,12 +3,6 @@ package lessons_3;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import javax.management.ObjectName;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Objects;
-import java.util.Comparator;
-
 public class Run_class {
 
         // Задание 1
